@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
-Debug|Win32|C:\Users\Skifok\Documents\Visual Studio 2015\proto_ptr\ProtoPtr\|
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|C:\Users\SkifOK\Documents\GitHub\prototo_ptr\ProtoPtr\|
